@@ -1,0 +1,755 @@
+Fine Amount
+Penalty Amount
+Interest Amount
+Payment Amount
+Amount Due
+Is_Different
+Is_High
+month
+License Type_COM
+License Type_OMT
+License Type_PAS
+Violation_ALTERING INTERCITY BUS PERMIT
+Violation_ANGLE PARKING
+Violation_ANGLE PARKING-COMM VEHICLE
+Violation_BEYOND MARKED SPACE
+Violation_BIKE LANE
+Violation_BUS PARKING IN LOWER MANHATTAN
+Violation_COMML PLATES-UNALTERED VEHICLE
+Violation_CROSSWALK
+Violation_DETACHED TRAILER
+Violation_DIVIDED HIGHWAY
+Violation_DOUBLE PARKING
+Violation_DOUBLE PARKING-MIDTOWN COMML
+Violation_EXCAVATION-VEHICLE OBSTR TRAFF
+Violation_EXPIRED MUNI METER
+Violation_EXPIRED MUNI MTR-COMM MTR ZN
+Violation_FAIL TO DISP. MUNI METER RECPT
+Violation_FAIL TO DSPLY MUNI METER RECPT
+Violation_FAILURE TO DISPLAY BUS PERMIT
+Violation_FIRE HYDRANT
+Violation_FRONT OR BACK PLATE MISSING
+Violation_IDLING
+Violation_IMPROPER REGISTRATION
+Violation_INSP STICKER-MUTILATED/C'FEIT
+Violation_INSP. STICKER-EXPIRED/MISSING
+Violation_INTERSECTION
+Violation_MISCELLANEOUS
+Violation_MISSING EQUIPMENT
+Violation_NGHT PKG ON RESID STR-COMM VEH
+Violation_NIGHTTIME STD/ PKG IN A PARK
+Violation_NO MATCH-PLATE/STICKER
+Violation_NO PARKING-DAY/TIME LIMITS
+Violation_NO PARKING-EXC. AUTH. VEHICLE
+Violation_NO PARKING-STREET CLEANING
+Violation_NO PARKING-TAXI STAND
+Violation_NO STANDING EXCP D/S
+Violation_NO STANDING EXCP DP
+Violation_NO STANDING-BUS LANE
+Violation_NO STANDING-BUS STOP
+Violation_NO STANDING-COMM METER ZONE
+Violation_NO STANDING-COMMUTER VAN STOP
+Violation_NO STANDING-DAY/TIME LIMITS
+Violation_NO STANDING-EXC. AUTH. VEHICLE
+Violation_NO STANDING-EXC. TRUCK LOADING
+Violation_NO STANDING-HOTEL LOADING
+Violation_NO STANDING-TAXI STAND
+Violation_NO STD(EXC TRKS/GMTDST NO-TRK)
+Violation_NO STOP/STANDNG EXCEPT PAS P/U
+Violation_NO STOPPING-DAY/TIME LIMITS
+Violation_NON-COMPLIANCE W/ POSTED SIGN
+Violation_OBSTRUCTING DRIVEWAY
+Violation_OBSTRUCTING TRAFFIC/INTERSECT
+Violation_OT PARKING-MISSING/BROKEN METR
+Violation_OTHER
+Violation_OVERNIGHT TRACTOR TRAILER PKG
+Violation_OVERTIME PKG-TIME LIMIT POSTED
+Violation_OVERTIME STDG D/S
+Violation_PARKED BUS-EXC. DESIG. AREA
+Violation_PEDESTRIAN RAMP
+Violation_PKG IN EXC. OF LIM-COMM MTR ZN
+Violation_PLTFRM LFTS LWRD POS COMM VEH
+Violation_RAILROAD CROSSING
+Violation_REG STICKER-MUTILATED/C'FEIT
+Violation_REG. STICKER-EXPIRED/MISSING
+Violation_REMOVE/REPLACE FLAT TIRE
+Violation_SAFETY ZONE
+Violation_SELLING/OFFERING MCHNDSE-METER
+Violation_SIDEWALK
+Violation_STORAGE-3HR COMMERCIAL
+Violation_TRAFFIC LANE
+Violation_UNAUTHORIZED BUS LAYOVER
+Violation_UNAUTHORIZED PASSENGER PICK-UP
+Violation_VACANT LOT
+Violation_VEH-SALE/WSHNG/RPRNG/DRIVEWAY
+Violation_VEHICLE FOR SALE(DEALERS ONLY)
+Violation_VIN OBSCURED
+Violation_WASH/REPAIR VEHCL-REPAIR ONLY
+Violation_WRONG WAY
+County_Bronx
+County_Kings
+County_New York
+County_Queens
+County_Richmond
+Issuing Agency_DEPARTMENT OF SANITATION
+Issuing Agency_POLICE DEPARTMENT
+Issuing Agency_TRAFFIC
+Violation Precinct_0 Precinct
+Violation Precinct_1 Precinct
+Violation Precinct_10 Precinct
+Violation Precinct_100 Precinct
+Violation Precinct_101 Precinct
+Violation Precinct_102 Precinct
+Violation Precinct_103 Precinct
+Violation Precinct_104 Precinct
+Violation Precinct_105 Precinct
+Violation Precinct_106 Precinct
+Violation Precinct_107 Precinct
+Violation Precinct_108 Precinct
+Violation Precinct_109 Precinct
+Violation Precinct_11 Precinct
+Violation Precinct_110 Precinct
+Violation Precinct_111 Precinct
+Violation Precinct_112 Precinct
+Violation Precinct_113 Precinct
+Violation Precinct_114 Precinct
+Violation Precinct_115 Precinct
+Violation Precinct_118 Precinct
+Violation Precinct_120 Precinct
+Violation Precinct_121 Precinct
+Violation Precinct_122 Precinct
+Violation Precinct_123 Precinct
+Violation Precinct_13 Precinct
+Violation Precinct_14 Precinct
+Violation Precinct_17 Precinct
+Violation Precinct_18 Precinct
+Violation Precinct_19 Precinct
+Violation Precinct_20 Precinct
+Violation Precinct_22 Precinct
+Violation Precinct_23 Precinct
+Violation Precinct_24 Precinct
+Violation Precinct_25 Precinct
+Violation Precinct_26 Precinct
+Violation Precinct_28 Precinct
+Violation Precinct_29 Precinct
+Violation Precinct_30 Precinct
+Violation Precinct_301 Precinct
+Violation Precinct_32 Precinct
+Violation Precinct_33 Precinct
+Violation Precinct_34 Precinct
+Violation Precinct_35 Precinct
+Violation Precinct_38 Precinct
+Violation Precinct_39 Precinct
+Violation Precinct_4 Precinct
+Violation Precinct_40 Precinct
+Violation Precinct_41 Precinct
+Violation Precinct_42 Precinct
+Violation Precinct_43 Precinct
+Violation Precinct_44 Precinct
+Violation Precinct_45 Precinct
+Violation Precinct_46 Precinct
+Violation Precinct_47 Precinct
+Violation Precinct_48 Precinct
+Violation Precinct_49 Precinct
+Violation Precinct_5 Precinct
+Violation Precinct_50 Precinct
+Violation Precinct_52 Precinct
+Violation Precinct_54 Precinct
+Violation Precinct_6 Precinct
+Violation Precinct_60 Precinct
+Violation Precinct_61 Precinct
+Violation Precinct_62 Precinct
+Violation Precinct_63 Precinct
+Violation Precinct_65 Precinct
+Violation Precinct_66 Precinct
+Violation Precinct_67 Precinct
+Violation Precinct_68 Precinct
+Violation Precinct_69 Precinct
+Violation Precinct_7 Precinct
+Violation Precinct_70 Precinct
+Violation Precinct_71 Precinct
+Violation Precinct_72 Precinct
+Violation Precinct_73 Precinct
+Violation Precinct_74 Precinct
+Violation Precinct_75 Precinct
+Violation Precinct_76 Precinct
+Violation Precinct_77 Precinct
+Violation Precinct_78 Precinct
+Violation Precinct_79 Precinct
+Violation Precinct_806 Precinct
+Violation Precinct_81 Precinct
+Violation Precinct_82 Precinct
+Violation Precinct_83 Precinct
+Violation Precinct_84 Precinct
+Violation Precinct_87 Precinct
+Violation Precinct_88 Precinct
+Violation Precinct_9 Precinct
+Violation Precinct_90 Precinct
+Violation Precinct_91 Precinct
+Violation Precinct_93 Precinct
+Violation Precinct_94 Precinct
+Violation Precinct_98 Precinct
+Issuer Precinct_0 Precinct
+Issuer Precinct_1 Precinct
+Issuer Precinct_10 Precinct
+Issuer Precinct_100 Precinct
+Issuer Precinct_101 Precinct
+Issuer Precinct_102 Precinct
+Issuer Precinct_103 Precinct
+Issuer Precinct_104 Precinct
+Issuer Precinct_105 Precinct
+Issuer Precinct_106 Precinct
+Issuer Precinct_107 Precinct
+Issuer Precinct_108 Precinct
+Issuer Precinct_109 Precinct
+Issuer Precinct_110 Precinct
+Issuer Precinct_111 Precinct
+Issuer Precinct_112 Precinct
+Issuer Precinct_113 Precinct
+Issuer Precinct_114 Precinct
+Issuer Precinct_115 Precinct
+Issuer Precinct_116 Precinct
+Issuer Precinct_117 Precinct
+Issuer Precinct_119 Precinct
+Issuer Precinct_12 Precinct
+Issuer Precinct_120 Precinct
+Issuer Precinct_121 Precinct
+Issuer Precinct_122 Precinct
+Issuer Precinct_123 Precinct
+Issuer Precinct_127 Precinct
+Issuer Precinct_13 Precinct
+Issuer Precinct_130 Precinct
+Issuer Precinct_131 Precinct
+Issuer Precinct_135 Precinct
+Issuer Precinct_136 Precinct
+Issuer Precinct_138 Precinct
+Issuer Precinct_139 Precinct
+Issuer Precinct_14 Precinct
+Issuer Precinct_15 Precinct
+Issuer Precinct_150 Precinct
+Issuer Precinct_161 Precinct
+Issuer Precinct_162 Precinct
+Issuer Precinct_163 Precinct
+Issuer Precinct_164 Precinct
+Issuer Precinct_165 Precinct
+Issuer Precinct_166 Precinct
+Issuer Precinct_167 Precinct
+Issuer Precinct_168 Precinct
+Issuer Precinct_169 Precinct
+Issuer Precinct_17 Precinct
+Issuer Precinct_171 Precinct
+Issuer Precinct_174 Precinct
+Issuer Precinct_18 Precinct
+Issuer Precinct_181 Precinct
+Issuer Precinct_182 Precinct
+Issuer Precinct_19 Precinct
+Issuer Precinct_2 Precinct
+Issuer Precinct_20 Precinct
+Issuer Precinct_201 Precinct
+Issuer Precinct_202 Precinct
+Issuer Precinct_214 Precinct
+Issuer Precinct_22 Precinct
+Issuer Precinct_23 Precinct
+Issuer Precinct_24 Precinct
+Issuer Precinct_25 Precinct
+Issuer Precinct_26 Precinct
+Issuer Precinct_279 Precinct
+Issuer Precinct_28 Precinct
+Issuer Precinct_29 Precinct
+Issuer Precinct_3 Precinct
+Issuer Precinct_30 Precinct
+Issuer Precinct_302 Precinct
+Issuer Precinct_31 Precinct
+Issuer Precinct_32 Precinct
+Issuer Precinct_33 Precinct
+Issuer Precinct_330 Precinct
+Issuer Precinct_34 Precinct
+Issuer Precinct_376 Precinct
+Issuer Precinct_38 Precinct
+Issuer Precinct_4 Precinct
+Issuer Precinct_40 Precinct
+Issuer Precinct_401 Precinct
+Issuer Precinct_402 Precinct
+Issuer Precinct_404 Precinct
+Issuer Precinct_41 Precinct
+Issuer Precinct_42 Precinct
+Issuer Precinct_420 Precinct
+Issuer Precinct_43 Precinct
+Issuer Precinct_437 Precinct
+Issuer Precinct_44 Precinct
+Issuer Precinct_447 Precinct
+Issuer Precinct_45 Precinct
+Issuer Precinct_46 Precinct
+Issuer Precinct_47 Precinct
+Issuer Precinct_48 Precinct
+Issuer Precinct_483 Precinct
+Issuer Precinct_488 Precinct
+Issuer Precinct_49 Precinct
+Issuer Precinct_490 Precinct
+Issuer Precinct_497 Precinct
+Issuer Precinct_5 Precinct
+Issuer Precinct_50 Precinct
+Issuer Precinct_502 Precinct
+Issuer Precinct_513 Precinct
+Issuer Precinct_52 Precinct
+Issuer Precinct_574 Precinct
+Issuer Precinct_58 Precinct
+Issuer Precinct_6 Precinct
+Issuer Precinct_60 Precinct
+Issuer Precinct_61 Precinct
+Issuer Precinct_62 Precinct
+Issuer Precinct_628 Precinct
+Issuer Precinct_63 Precinct
+Issuer Precinct_64 Precinct
+Issuer Precinct_641 Precinct
+Issuer Precinct_642 Precinct
+Issuer Precinct_66 Precinct
+Issuer Precinct_67 Precinct
+Issuer Precinct_68 Precinct
+Issuer Precinct_69 Precinct
+Issuer Precinct_692 Precinct
+Issuer Precinct_7 Precinct
+Issuer Precinct_70 Precinct
+Issuer Precinct_708 Precinct
+Issuer Precinct_71 Precinct
+Issuer Precinct_72 Precinct
+Issuer Precinct_721 Precinct
+Issuer Precinct_73 Precinct
+Issuer Precinct_74 Precinct
+Issuer Precinct_75 Precinct
+Issuer Precinct_76 Precinct
+Issuer Precinct_77 Precinct
+Issuer Precinct_78 Precinct
+Issuer Precinct_780 Precinct
+Issuer Precinct_786 Precinct
+Issuer Precinct_79 Precinct
+Issuer Precinct_8 Precinct
+Issuer Precinct_800 Precinct
+Issuer Precinct_801 Precinct
+Issuer Precinct_802 Precinct
+Issuer Precinct_803 Precinct
+Issuer Precinct_804 Precinct
+Issuer Precinct_805 Precinct
+Issuer Precinct_806 Precinct
+Issuer Precinct_807 Precinct
+Issuer Precinct_808 Precinct
+Issuer Precinct_809 Precinct
+Issuer Precinct_81 Precinct
+Issuer Precinct_821 Precinct
+Issuer Precinct_822 Precinct
+Issuer Precinct_824 Precinct
+Issuer Precinct_826 Precinct
+Issuer Precinct_83 Precinct
+Issuer Precinct_834 Precinct
+Issuer Precinct_835 Precinct
+Issuer Precinct_837 Precinct
+Issuer Precinct_839 Precinct
+Issuer Precinct_84 Precinct
+Issuer Precinct_840 Precinct
+Issuer Precinct_85 Precinct
+Issuer Precinct_852 Precinct
+Issuer Precinct_86 Precinct
+Issuer Precinct_860 Precinct
+Issuer Precinct_861 Precinct
+Issuer Precinct_862 Precinct
+Issuer Precinct_863 Precinct
+Issuer Precinct_868 Precinct
+Issuer Precinct_869 Precinct
+Issuer Precinct_87 Precinct
+Issuer Precinct_878 Precinct
+Issuer Precinct_879 Precinct
+Issuer Precinct_88 Precinct
+Issuer Precinct_9 Precinct
+Issuer Precinct_90 Precinct
+Issuer Precinct_93 Precinct
+Issuer Precinct_94 Precinct
+Issuer Precinct_941 Precinct
+Issuer Precinct_96 Precinct
+Issuer Precinct_97 Precinct
+Issuer Precinct_976 Precinct
+Issuer Precinct_99 Precinct
+Issuer Command_0000
+Issuer Command_0001
+Issuer Command_0002
+Issuer Command_0003
+Issuer Command_0004
+Issuer Command_0005
+Issuer Command_0006
+Issuer Command_0007
+Issuer Command_0008
+Issuer Command_0009
+Issuer Command_0010
+Issuer Command_0012
+Issuer Command_0013
+Issuer Command_0014
+Issuer Command_0015
+Issuer Command_0017
+Issuer Command_0018
+Issuer Command_0019
+Issuer Command_0020
+Issuer Command_0022
+Issuer Command_0023
+Issuer Command_0024
+Issuer Command_0025
+Issuer Command_0026
+Issuer Command_0028
+Issuer Command_0029
+Issuer Command_0030
+Issuer Command_0031
+Issuer Command_0032
+Issuer Command_0033
+Issuer Command_0034
+Issuer Command_0038
+Issuer Command_003Z
+Issuer Command_0040
+Issuer Command_0041
+Issuer Command_0042
+Issuer Command_0043
+Issuer Command_0044
+Issuer Command_0045
+Issuer Command_0046
+Issuer Command_0047
+Issuer Command_0048
+Issuer Command_0049
+Issuer Command_004T
+Issuer Command_0050
+Issuer Command_0052
+Issuer Command_0058
+Issuer Command_0060
+Issuer Command_0061
+Issuer Command_0062
+Issuer Command_0063
+Issuer Command_0064
+Issuer Command_0066
+Issuer Command_0067
+Issuer Command_0068
+Issuer Command_0069
+Issuer Command_0070
+Issuer Command_0071
+Issuer Command_0072
+Issuer Command_0073
+Issuer Command_0074
+Issuer Command_0075
+Issuer Command_0076
+Issuer Command_0077
+Issuer Command_0078
+Issuer Command_0079
+Issuer Command_0081
+Issuer Command_0083
+Issuer Command_0084
+Issuer Command_0085
+Issuer Command_0086
+Issuer Command_0087
+Issuer Command_0088
+Issuer Command_0090
+Issuer Command_0093
+Issuer Command_0094
+Issuer Command_0096
+Issuer Command_0097
+Issuer Command_0099
+Issuer Command_00S0
+Issuer Command_0100
+Issuer Command_0101
+Issuer Command_0102
+Issuer Command_0103
+Issuer Command_0104
+Issuer Command_0105
+Issuer Command_0106
+Issuer Command_0107
+Issuer Command_0108
+Issuer Command_0109
+Issuer Command_0110
+Issuer Command_0111
+Issuer Command_0112
+Issuer Command_0113
+Issuer Command_0114
+Issuer Command_0115
+Issuer Command_0116
+Issuer Command_0117
+Issuer Command_0119
+Issuer Command_0120
+Issuer Command_0121
+Issuer Command_0122
+Issuer Command_0123
+Issuer Command_0127
+Issuer Command_0130
+Issuer Command_0131
+Issuer Command_0135
+Issuer Command_0136
+Issuer Command_0138
+Issuer Command_0139
+Issuer Command_0161
+Issuer Command_0162
+Issuer Command_0163
+Issuer Command_0164
+Issuer Command_0165
+Issuer Command_0166
+Issuer Command_0167
+Issuer Command_0168
+Issuer Command_0169
+Issuer Command_0171
+Issuer Command_0174
+Issuer Command_0181
+Issuer Command_0182
+Issuer Command_01O4
+Issuer Command_01O5
+Issuer Command_01O8
+Issuer Command_0201
+Issuer Command_0202
+Issuer Command_0214
+Issuer Command_0279
+Issuer Command_0302
+Issuer Command_0330
+Issuer Command_0376
+Issuer Command_0401
+Issuer Command_0404
+Issuer Command_0420
+Issuer Command_0437
+Issuer Command_0447
+Issuer Command_0483
+Issuer Command_0488
+Issuer Command_0490
+Issuer Command_0497
+Issuer Command_0502
+Issuer Command_0513
+Issuer Command_0574
+Issuer Command_062
+Issuer Command_0628
+Issuer Command_0641
+Issuer Command_0642
+Issuer Command_0692
+Issuer Command_0708
+Issuer Command_0721
+Issuer Command_0780
+Issuer Command_0786
+Issuer Command_0801
+Issuer Command_0802
+Issuer Command_0803
+Issuer Command_0804
+Issuer Command_0805
+Issuer Command_0806
+Issuer Command_0807
+Issuer Command_0808
+Issuer Command_0809
+Issuer Command_0821
+Issuer Command_0822
+Issuer Command_0824
+Issuer Command_0826
+Issuer Command_0834
+Issuer Command_0835
+Issuer Command_0837
+Issuer Command_0839
+Issuer Command_0840
+Issuer Command_0860
+Issuer Command_0861
+Issuer Command_0862
+Issuer Command_0863
+Issuer Command_0868
+Issuer Command_0869
+Issuer Command_0878
+Issuer Command_0879
+Issuer Command_0941
+Issuer Command_0976
+Issuer Command_0F11
+Issuer Command_0F12
+Issuer Command_0F13
+Issuer Command_0F14
+Issuer Command_0JFK
+Issuer Command_0KSC
+Issuer Command_0N63
+Issuer Command_0PIU
+Issuer Command_0W04
+Issuer Command_1004
+Issuer Command_1026
+Issuer Command_1050
+Issuer Command_1117
+Issuer Command_2075
+Issuer Command_3030
+Issuer Command_3038
+Issuer Command_BNTE
+Issuer Command_BX01
+Issuer Command_BX02
+Issuer Command_BX03
+Issuer Command_BX04
+Issuer Command_BX05
+Issuer Command_BX06
+Issuer Command_BX07
+Issuer Command_BX08
+Issuer Command_BX09
+Issuer Command_BX10
+Issuer Command_BX11
+Issuer Command_BX12
+Issuer Command_BXBO
+Issuer Command_BXLC
+Issuer Command_BXSP
+Issuer Command_BXTE
+Issuer Command_BXTF
+Issuer Command_BXTP
+Issuer Command_CC42
+Issuer Command_DVO
+Issuer Command_EPIU
+Issuer Command_FT11
+Issuer Command_HBBG
+Issuer Command_HBBQ
+Issuer Command_HCF
+Issuer Command_KKDV
+Issuer Command_KKSP
+Issuer Command_KKTF
+Issuer Command_KN01
+Issuer Command_KN02
+Issuer Command_KN03
+Issuer Command_KN04
+Issuer Command_KN05
+Issuer Command_KN08
+Issuer Command_KN09
+Issuer Command_KN16
+Issuer Command_KN17
+Issuer Command_KNBO
+Issuer Command_KS06
+Issuer Command_KS07
+Issuer Command_KS10
+Issuer Command_KS11
+Issuer Command_KS12
+Issuer Command_KS13
+Issuer Command_KS14
+Issuer Command_KS15
+Issuer Command_KS18
+Issuer Command_KSBO
+Issuer Command_KSUP
+Issuer Command_M102
+Issuer Command_MAPO
+Issuer Command_ME11
+Issuer Command_MN01
+Issuer Command_MN02
+Issuer Command_MN03
+Issuer Command_MN04
+Issuer Command_MN05
+Issuer Command_MN06
+Issuer Command_MN07
+Issuer Command_MN08
+Issuer Command_MN09
+Issuer Command_MN10
+Issuer Command_MN11
+Issuer Command_MN12
+Issuer Command_MNBO
+Issuer Command_MNHQ
+Issuer Command_MNLC
+Issuer Command_MNVU
+Issuer Command_MST6
+Issuer Command_MSTG
+Issuer Command_MTS
+Issuer Command_MTTF
+Issuer Command_NBBO
+Issuer Command_NYPD
+Issuer Command_O049
+Issuer Command_O101
+Issuer Command_O1O4
+Issuer Command_O852
+Issuer Command_OAU
+Issuer Command_OBIC
+Issuer Command_OE12
+Issuer Command_OF12
+Issuer Command_OF14
+Issuer Command_OMD
+Issuer Command_PBBN
+Issuer Command_PBBQ
+Issuer Command_PBBX
+Issuer Command_PBMN
+Issuer Command_PBMW
+Issuer Command_PBQN
+Issuer Command_PMD
+Issuer Command_PSA1
+Issuer Command_PSA2
+Issuer Command_PSA3
+Issuer Command_PSA8
+Issuer Command_PSA9
+Issuer Command_QE07
+Issuer Command_QE08
+Issuer Command_QE10
+Issuer Command_QE11
+Issuer Command_QE12
+Issuer Command_QE13
+Issuer Command_QE14
+Issuer Command_QEBO
+Issuer Command_QNSP
+Issuer Command_QNTF
+Issuer Command_QW01
+Issuer Command_QW02
+Issuer Command_QW03
+Issuer Command_QW04
+Issuer Command_QW05
+Issuer Command_QW06
+Issuer Command_QW09
+Issuer Command_QWBO
+Issuer Command_RIDT
+Issuer Command_SI01
+Issuer Command_SI02
+Issuer Command_SI03
+Issuer Command_SIBO
+Issuer Command_SITE
+Issuer Command_SWM
+Issuer Command_T102
+Issuer Command_T103
+Issuer Command_T105
+Issuer Command_T106
+Issuer Command_T109
+Issuer Command_T110
+Issuer Command_T111
+Issuer Command_T150
+Issuer Command_T201
+Issuer Command_T301
+Issuer Command_T302
+Issuer Command_T303
+Issuer Command_T400
+Issuer Command_T401
+Issuer Command_T402
+Issuer Command_T501
+Issuer Command_T502
+Issuer Command_T504
+Issuer Command_T506
+Issuer Command_T720
+Issuer Command_T730
+Issuer Command_T740
+Issuer Command_T800
+Issuer Command_T801
+Issuer Command_T802
+Issuer Command_T803
+Issuer Command_TD04
+Issuer Command_TD11
+Issuer Command_TD30
+Issuer Command_TD32
+Issuer Command_TD33
+Issuer Command_TEMS
+Law Section_Buses
+"Law Section_Parking, Stopping, Standing"
+Time_00:00
+Time_01:00
+Time_02:00
+Time_03:00
+Time_04:00
+Time_05:00
+Time_06:00
+Time_07:00
+Time_08:00
+Time_09:00
+Time_10:00
+Time_11:00
+Time_12:00
+Time_13:00
+Time_14:00
+Time_15:00
+Time_16:00
+Time_17:00
+Time_18:00
+Time_19:00
+Time_20:00
+Time_21:00
+Time_22:00
+Time_23:00
+DayOfWeek_Friday
+DayOfWeek_Monday
+DayOfWeek_Saturday
+DayOfWeek_Sunday
+DayOfWeek_Thursday
+DayOfWeek_Tuesday
+DayOfWeek_Wednesday
